@@ -25,22 +25,22 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.1916777"
-     inkscape:cx="288.66866"
-     inkscape:cy="24.755016"
+     inkscape:zoom="2.3833554"
+     inkscape:cx="207.27081"
+     inkscape:cy="88.320861"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer4" />
   <defs
      id="defs1" />
   <g
      inkscape:label="Dynamics I"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Padauk;-inkscape-font-specification:Padauk;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ffffff;stroke-width:0.799999;stroke-linecap:round;stroke-linejoin:round"
@@ -95,7 +95,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="BassMAX"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.6317px;font-family:Goldman;-inkscape-font-specification:Goldman;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:5.19854;stroke-linecap:round;stroke-linejoin:round"
@@ -129,7 +129,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="StereoX 1"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7009px;font-family:Goldman;-inkscape-font-specification:Goldman;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:3.70415;stroke-linecap:round;stroke-linejoin:round"
@@ -152,5 +152,21 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.8"
          x="67.822289"
          y="38.464027">I</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="ClearVoice">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.799999;stroke-linecap:round;stroke-linejoin:round"
+       x="23.534746"
+       y="30.639576"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.8"
+         x="23.534746"
+         y="30.639576">ClearVoice</tspan></text>
   </g>
 </svg>
